@@ -37,7 +37,7 @@ export default function LoginForm() {
             priority
           />
           <h1 className="font-bold text-2xl text-center">
-            Welcome to the Fetch Take-Home!
+            Welcome to FurEver Finder!
           </h1>
           <h2 className="text-muted-foreground text-center">
             Please sign in to find your perfect dog!

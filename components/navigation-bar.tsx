@@ -37,7 +37,7 @@ export default function NavigationBar() {
           height={20}
           priority
         />
-        <h1 className="font-bold text-2xl ml-2">Fetch Take Home</h1>
+        <h1 className="font-bold text-2xl ml-2">FurEver Finder</h1>
       </div>
       <NavigationMenu>
         <NavigationMenuList>
